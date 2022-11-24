@@ -1,1 +1,1 @@
-Azure-and-AI
+Projekt wykonywany w ramach przedmiotu "Azure and AI" prowadzonym na Politechnice Warszawskiej
