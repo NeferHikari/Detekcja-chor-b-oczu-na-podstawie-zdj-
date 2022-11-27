@@ -3,7 +3,7 @@ Projekt wykonywany w ramach przedmiotu "Azure and AI" prowadzonym na Politechnic
 
 Cel projektu 
 ====
-Celem projektu jest stworzenie aplikacji internetowej pomagającej lekarzom rozpoznawać choroby oczu (i nie tylko) na podstawie ich głębokich zdjęć. Narzędzie to miałoby być w formie strony internetowej, na której można zamieścić zjęcie oka i w relatywnie któtkim czasie otrzymać raport o potencjalnych chorobach pacjenta.
+Celem projektu jest stworzenie aplikacji internetowej pomagającej lekarzom rozpoznawać choroby oczu (i nie tylko) na podstawie ich głębokich zdjęć. Narzędzie to miałoby być w formie strony internetowej, na której można zamieścić zdjęcie oka i w relatywnie któtkim czasie otrzymać raport o potencjalnych chorobach pacjenta.
 
 
 Wykorzystane usługi oraz technologie
