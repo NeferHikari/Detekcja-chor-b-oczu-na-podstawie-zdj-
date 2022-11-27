@@ -12,7 +12,7 @@ Azure Machine Learning \
 Azure FileSystem \
 Azure WebApp \
 Flask\
-Jupyter notebook\
+Jupyter notebook
 
 Diagram architektury
 ====
