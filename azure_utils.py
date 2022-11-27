@@ -2,8 +2,8 @@ from azure.keyvault.secrets import SecretClient
 from azure.identity import DefaultAzureCredential
 import requests
 
-KEY_VAULT_URI = "" # TODO add key vault public uri
-MODEL_URL_SECRET_NAME = "" # TODO add model url secret name
+KEY_VAULT_URI = "https://esdd-keyvault.vault.azure.net/" # TODO add key vault public uri
+MODEL_URL_SECRET_NAME = "model-url" # TODO add model url secret name
 PRED_HEADERS = {"Content-Type": "application/octet-stream"}
 JSON_PREDICTION_NAME = "predictions"
 
