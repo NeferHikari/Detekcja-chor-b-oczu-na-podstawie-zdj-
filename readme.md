@@ -15,7 +15,7 @@ Azure WebApp
 
 Diagram architektury
 ====
-
+![Architektura](/images/architektura.png]
 
 Działanie
 ====
