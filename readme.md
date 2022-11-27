@@ -27,6 +27,10 @@ Demo
 ====
 [Link do prezentacji dziłania programu]()
 
+Wnioski
+====
+Niestety nie udało nam się postawić własnej aplikacji internetowej. Najpierw nie intalowały nam się zależności ale udało nam się rozwiązać ten problem poprzez użycie workflow z githuba. Potem gdy udało nam się uruchomić aplikacje, nie ładowała ona nam strony głównej i po chwili przestawała działać. Niestety, nie udało nam się odczytać z logów przyczyny tego błędu.
+
 
 Skład zespołu
 ====
