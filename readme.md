@@ -11,7 +11,8 @@ Wykorzystane usługi oraz technologie
 Azure Machine Learning \
 Azure FileSystem \
 Azure WebApp 
-
+Flask
+Jupyter notebook
 
 Diagram architektury
 ====
