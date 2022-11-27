@@ -12,7 +12,8 @@ Azure Machine Learning \
 Azure FileSystem \
 Azure WebApp \
 Flask\
-Jupyter notebook
+Jupyter notebook\
+Pretrenowany model Inception3
 
 Diagram architektury
 ====
