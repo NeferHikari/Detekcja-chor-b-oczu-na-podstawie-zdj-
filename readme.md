@@ -29,7 +29,8 @@ Oto lista chorób, które biorą udział w klasyfikacji:
 + Age related Macular Degeneration (A)
 + Hypertension (H)
 + Pathological Myopia (M)
-+ Other diseases/abnormalities (O)\
++ Other diseases/abnormalities (O)
+
 Dostępna jest również etykiera (N) symbolizująca oko zdrowego pacjenta. <br>
 Lekarz po wykonaniu zdjęcia oka pacjenta wchodzi na stronę i w sekcji przeznaczonej do wrzucania plików umieszcza zdjęcie pacjenta. Aplikacja Pythonowa napisana przy użyciu Flaska przyjmuje ten plik i wykonuje zapytanie do
 modelu, który został już wyćwiczony, przy użyciu endpointu, który jest zapisany w KeyVault'cie. Aplikacja autoryzuje się i uzyskuje URI modelu. Następnie wysyła request z obrazem i oczekuje na predykcje. Kiedy model dokona predykcji są one zwracane i wyświetlane w czytelny sposób obrazując procentową predykcję występowania u pacjenta każdej z klasyfikowanych chorób. 
