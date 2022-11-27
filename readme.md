@@ -18,10 +18,10 @@ Działanie
 
 Demo
 ====
-
+[Link do prezentacji dziłania programu]()
 Skład zespołu
 ====
 [Agnieszka Stefankowska](https://github.com/NeferHikari) \
-Hubert Mazur \
-Jakub Karpiński 
+[Hubert Mazur](https://github.com/JayHubPL) \
+[Jakub Karpiński](https://github.com/Jakub-Kar) 
 
