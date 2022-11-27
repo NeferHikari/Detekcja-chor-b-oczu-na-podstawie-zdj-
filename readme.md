@@ -37,7 +37,6 @@ modelu, który został już wyćwiczony, przy użyciu endpointu, który jest zap
 
 Demo
 ====
-[Link do prezentacji działania programu]()
 
 Wnioski
 ====
