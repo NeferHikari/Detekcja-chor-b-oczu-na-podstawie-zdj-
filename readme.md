@@ -4,7 +4,7 @@ Cel projektu
 ====
 Celem projektu jest stworzenie aplikacji pomagającej lekarzą rozpoznawać chorobu oczu na podstawie zdjęć.
 
-Architektura
+Wykorzystane usługi
 ====
 
 Działanie
