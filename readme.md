@@ -8,7 +8,7 @@ Wykorzystane usługi
 ====
 Azure Machine Learning \
 Azure FileSystem \
-Azure WebApp \
+Azure WebApp 
 
 Działanie
 ====
@@ -20,5 +20,5 @@ Skład zespołu
 ====
 Agnieszka Stefankowska \
 Hubert Mazur \ 
-Jakub Karpiński \
+Jakub Karpiński 
 
