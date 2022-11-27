@@ -22,6 +22,8 @@ name: Build and deploy Python app to Azure Web App
 env:
   AZURE_WEBAPP_NAME: eyescandiseasedetector  # set this to the name of your Azure Web App
   PYTHON_VERSION: '3.8'              # set this to the Python version to use
+  AZURE_USERNAME: ${{ secrets.AZURE_USERNAME }}
+  AZURE_PASSWORD: ${{ secrets.AZURE_PASSWORD }}
 
 on:
   push:
