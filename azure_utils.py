@@ -1,5 +1,5 @@
 from azure.keyvault.secrets import SecretClient
-from azure.indentity import DefaultAzureCredential
+from azure.identity import DefaultAzureCredential
 import requests
 
 KEY_VAULT_URI = "" # TODO add key vault public uri
