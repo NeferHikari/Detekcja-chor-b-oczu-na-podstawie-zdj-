@@ -10,14 +10,14 @@ Wykorzystane usługi oraz technologie
 ====
 Azure Machine Learning \
 Azure FileSystem \
-Azure WebApp \
+Azure Functions\
 Flask\
 Jupyter notebook\
 Pretrenowany model Inception3
 
 Diagram architektury
 ====
-![Architektura](images/architektura.png)
+![Architektura](images/a2.png)
 
 Działanie
 ====
