@@ -19,6 +19,6 @@ Demo
 Skład zespołu
 ====
 Agnieszka Stefankowska \
-Hubert Mazur\ 
+Hubert Mazur \
 Jakub Karpiński 
 
