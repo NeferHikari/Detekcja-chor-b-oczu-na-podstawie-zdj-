@@ -6,6 +6,9 @@ Celem projektu jest stworzenie aplikacji pomagającej lekarzą rozpoznawać chor
 
 Wykorzystane usługi
 ====
+Azure Machine Learning
+Azure FileSystem
+Azure WebApp
 
 Działanie
 ====
